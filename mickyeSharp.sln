@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mickyeSharp", "mickyeSharp\mickyeSharp.csproj", "{0865C029-99FA-4C65-828F-38661CA58F4A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "mickyeSharp.Converted", "mickyeSharp.ConvertedToVBNet\mickyeSharp.Converted.vbproj", "{510D30D8-6EB0-4427-BCC8-8B94DF56B5BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0865C029-99FA-4C65-828F-38661CA58F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0865C029-99FA-4C65-828F-38661CA58F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0865C029-99FA-4C65-828F-38661CA58F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0865C029-99FA-4C65-828F-38661CA58F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510D30D8-6EB0-4427-BCC8-8B94DF56B5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510D30D8-6EB0-4427-BCC8-8B94DF56B5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510D30D8-6EB0-4427-BCC8-8B94DF56B5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510D30D8-6EB0-4427-BCC8-8B94DF56B5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
