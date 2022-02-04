@@ -1,0 +1,6 @@
+C:\Users\Putra Adi Jaya Soft\RiderProjects\mickyeSharp\mickyeSharp\obj\Debug\mickyeSharp.csprojAssemblyReference.cache
+C:\Users\Putra Adi Jaya Soft\RiderProjects\mickyeSharp\mickyeSharp\obj\Debug\mickyeSharp.csproj.CoreCompileInputs.cache
+C:\Users\Putra Adi Jaya Soft\RiderProjects\mickyeSharp\mickyeSharp\bin\Debug\mickyeSharp.exe
+C:\Users\Putra Adi Jaya Soft\RiderProjects\mickyeSharp\mickyeSharp\bin\Debug\mickyeSharp.pdb
+C:\Users\Putra Adi Jaya Soft\RiderProjects\mickyeSharp\mickyeSharp\obj\Debug\mickyeSharp.exe
+C:\Users\Putra Adi Jaya Soft\RiderProjects\mickyeSharp\mickyeSharp\obj\Debug\mickyeSharp.pdb
